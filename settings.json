@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "ADMINGG",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "iguana.aternos.host",
-    "port": 56559,
+    "ip": "kuchbhi67.mcsh.io",
+    "port": 2022,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I NEED DIAMOND",
+        "I NEED DIAMOND",
+        "I NEED DIAMOND"
       ]
     },
     "chat-log": true,
